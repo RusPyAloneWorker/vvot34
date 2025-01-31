@@ -1,0 +1,6 @@
+KEYID                = "***"
+SA_STORAGE_IAM_TOKEN = "***"
+TELEGRAM_API_KEY     = "***"
+FOLDER_ID = "***"
+CLOUD_ID = "***"
+SERVICE_ACCOUNT_ID_FOR_FUNCTION = "***"
